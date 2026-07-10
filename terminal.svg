@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460" fill="none" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+<defs>
+<style>
+  .txt { fill:#E8E6E3; font-size:15px; }
+  .dim { fill:#8A8784; font-size:15px; }
+  .accent { fill:#D97757; font-size:15px; }
+  .green { fill:#7EC699; font-size:15px; }
+  .prompt { fill:#D97757; font-size:15px; font-weight:bold; }
+  .title { fill:#8A8784; font-size:13px; }
+  .line { opacity:0; animation: appear .3s forwards; }
+  @keyframes appear { from{opacity:0; transform:translateY(4px);} to { opacity:1; transform:translateY(0);} }
+  .cursor { fill:#D97757; animation: blink 1s step-end infinite; }
+  @keyframes blink { 50% { opacity:0; } }
+  .l1{animation-delay:.2s}.l2{animation-delay:1.6s}.l3{animation-delay:2.1s}
+  .l4{animation-delay:2.8s}.l5{animation-delay:4.0s}.l6{animation-delay:4.4s}
+  .l7{animation-delay:4.8s}.l8{animation-delay:5.2s}.l9{animation-delay:6.4s}
+  .l10{animation-delay:7.0s}.l11{animation-delay:7.4s}.l12{animation-delay:7.8s}
+  .l14{animation-delay:8.6s}
+</style>
+</defs>
+<rect x="0" y="0" width="820" height="460" rx="12" fill="#1E1E1E"/>
+<rect x="0" y="0" width="820" height="36" rx="12" fill="#2A2A28"/>
+<rect x="0" y="24" width="820" height="12" fill="#2A2A28"/>
+<circle cx="22" cy="18" r="6" fill="#ED6A5E"/>
+<circle cx="42" cy="18" r="6" fill="#F4BF4F"/>
+<circle cx="62" cy="18" r="6" fill="#61C554"/>
+<text class="title" x="410" y="22" text-anchor="middle">manoj@cloud — claude code</text>
+<g transform="translate(24,68)">
+  <text class="line l1"><tspan class="prompt">❯</tspan><tspan class="accent" dx="10">whoami</tspan></text>
+  <text class="line l2" y="28"><tspan class="txt">Manoj Kumar Gogula</tspan><tspan class="dim" dx="8">· DevOps / Cloud Operations Engineer</tspan></text>
+  <text class="line l3" y="50"><tspan class="dim">3+ yrs · AWS · Azure · Kubernetes · Terraform · LLMOps</tspan></text>
+  <text class="line l4" y="86"><tspan class="prompt">❯</tspan><tspan class="accent" dx="10">git log --impact</tspan></text>
+  <text class="line l5" y="114"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Migrated Azure → AWS in &lt;7 days, zero downtime (-35%)</tspan></text>
+  <text class="line l6" y="136"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Scaled AI inference to 700M+ tokens/min</tspan></text>
+  <text class="line l7" y="158"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Powered an IoT platform of 3M+ devices</tspan></text>
+  <text class="line l8" y="180"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Secured $50K+ in cloud credits</tspan></text>
+  <text class="line l9" y="216"><tspan class="prompt">❯</tspan><tspan class="accent" dx="10">cat now.md</tspan></text>
+  <text class="line l10" y="244"><tspan class="dim">→</tspan><tspan class="txt" dx="8">Building &amp; scaling infra @ Wexa AI</tspan></text>
+  <text class="line l11" y="266"><tspan class="dim">→</tspan><tspan class="txt" dx="8">Exploring MCP orchestration &amp; GitOps</tspan></text>
+  <text class="line l12" y="288"><tspan class="dim">→</tspan><tspan class="txt" dx="8">Based in Hyderabad, India</tspan></text>
+  <text class="line l14" y="330"><tspan class="prompt">❯</tspan></text>
+  <rect class="cursor l14" x="16" y="318" width="9" height="16"/>
+</g>
+</svg>
