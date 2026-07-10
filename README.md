@@ -1,13 +1,15 @@
-<h1 align="center">Manoj Kumar Gogula</h1>
-<p align="center">
-  <b>DevOps / Cloud Operations Engineer</b> &nbsp;•&nbsp; AWS · Azure · Kubernetes · Terraform · LLMOps
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/manoj-kumar-gogula-7092791a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mr.gmanojkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Hyderabad,%20India-3776AB?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=manojkumargogula&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00b4d8&height=200&section=header&text=Manoj%20Kumar%20Gogula&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Operations%20%7C%20LLMOps&descSize=18&descAlignY=60" alt="header"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=DevOps+%2F+Cloud+Operations+Engineer;Automating+CI%2FCD+Pipelines+%E2%9A%99%EF%B8%8F;Scaling+AI+%2F+LLM+Workloads+%F0%9F%A4%96;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform)](https://git.io/typing-svg)
+
+<a href="https://linkedin.com/in/manoj-kumar-gogula-7092791a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mr.gmanojkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Hyderabad,%20India-3776AB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=manojkumargogula&label=Profile+views&color=00b4d8&style=for-the-badge" alt="views"/>
+
+</div>
 
 ```bash
 manoj@cloud:~$ ./whoami.sh
@@ -21,76 +23,69 @@ manoj@cloud:~$ ./whoami.sh
     |   {} scale         |        Uptime....: 99.9% production
      '-------------------'        Focus.....: Infra automation - LLMOps
 ────────────────────────────────────────────────────────────
-  Languages...: Bash, Python, YAML, JavaScript
-  Clouds......: AWS, Azure, Hetzner
-  Orchestrate.: Kubernetes (EKS, AKS, K3s), Helm, Rancher
-  IaC / CICD..: Terraform, GitHub Actions, GitLab CI, Azure DevOps
-  LLMOps......: Azure OpenAI, Bedrock, Ollama, LiteLLM, Langfuse
-  Observe.....: Prometheus, Grafana, Loki, CloudWatch
   Highlight...: Scaled AI inference to 700M+ tokens/min
+  Milestone...: Azure -> AWS migration in <7 days, zero downtime, -35% cost
+  Scale.......: IoT platform to 3M+ devices via Kafka & EMQX
 ```
 
-## About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-DevOps and Cloud Operations Engineer with **3+ years** of experience managing scalable infrastructure, automating CI/CD pipelines, and deploying AI/LLM workloads across **AWS** and **Azure**. I specialize in Kubernetes, Docker, Terraform, and LLMOps - with a track record in cloud cost optimization, zero-downtime infrastructure migration, and production-grade AI deployments.
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding"/>
 
-- Currently: Building & scaling infra + LLMOps at **Wexa AI**
-- Exploring: MCP server orchestration, GitOps, developer productivity tooling
-- Secured **$50K+** in cloud credits (AWS, Azure, MongoDB, NVIDIA & more)
-- Migrated full infra Azure -> AWS in **under 7 days, zero downtime** (-35% cost)
-- Scaled an IoT platform to **3M+ devices** using Kafka & EMQX
-- Ask me about: Kubernetes, Terraform, cloud cost optimization, LLMOps
+- Currently building & scaling infra + **LLMOps** at **Wexa AI**
+- Exploring **MCP server orchestration**, **GitOps** & developer productivity
+- Secured **$50K+** in cloud credits (AWS, Azure, MongoDB, NVIDIA)
+- Migrated full infra **Azure -> AWS** in **<7 days, zero downtime** (-35% cost)
+- Scaled an IoT platform to **3M+ devices** with Kafka & EMQX
+- Ask me about **Kubernetes, Terraform, cloud cost optimization, LLMOps**
 
-## Tech Stack
+<br clear="right"/>
 
-**Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
-**Containers & Orchestration**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+<div align="center">
 
-**IaC & CI/CD**  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,gitlab,bash,python,nginx,linux&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,kafka,postgres,grafana,prometheus&theme=dark" />
 
-**LLMOps & AI**  
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+</div>
 
-**Data & Messaging**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+## <img src="https://media.giphy.com/media/W5epVi7K93VJHlM3l6/giphy.gif" width="30"> GitHub Analytics
 
-**Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+<div align="center">
 
-## GitHub Stats
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manojkumargogula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumargogula&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manojkumargogula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumargogula&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumargogula&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumargogula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
 
-## Connect
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/manoj-kumar-gogula-7092791a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mr.gmanojkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## <img src="https://media.giphy.com/media/LnQ1Kk2vHXBdYXn66r/giphy.gif" width="30"> Contribution Graph
 
-<p align="center"><i>"Automating infrastructure and scaling AI, one pipeline at a time."</i></p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojkumargogula&theme=tokyo-night&hide_border=true&area=true&bg_color=0f2027&color=00b4d8&line=00b4d8&point=ffffff)](https://github.com/manojkumargogula)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+</div>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manojkumargogula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+
+</div>
+
+<div align="center">
+
+<i>"Automating infrastructure and scaling AI, one pipeline at a time."</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:2c5364,100:0f2027&height=120&section=footer" alt="footer"/>
