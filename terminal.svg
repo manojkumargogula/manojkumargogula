@@ -33,7 +33,7 @@
 <text class="line l18" x="0" y="339" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Built VOD UIs in Next.js; REST/GraphQL integration</tspan></text>
 <text class="line l19" x="0" y="360" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Owned Spaces admin dashboard + Mindsome AI chat UI</tspan></text>
 <text class="line l21" x="0" y="393" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">ls ./projects</tspan></text>
-<text class="line l22" x="0" y="414" font-size="14"><tspan fill="#8A8784">→</tspan><tspan fill="#E8E6E3" dx="8">Wexa Platform — multi-cloud infra, LLMs @ 700M+ tokens/min</tspan></text>
+<text class="line l22" x="0" y="414" font-size="14"><tspan fill="#8A8784">→</tspan><tspan fill="#E8E6E3" dx="8">Wexa Platform — multi-cloud infra, LLMs @ 500K+ tokens/min</tspan></text>
 <text class="line l23" x="0" y="435" font-size="14"><tspan fill="#8A8784">→</tspan><tspan fill="#E8E6E3" dx="8">Logistics IoT (Cognochain) — K8s, Kafka+EMQX for 3M+ devices</tspan></text>
 <text class="line l24" x="0" y="456" font-size="14"><tspan fill="#8A8784">→</tspan><tspan fill="#E8E6E3" dx="8">Spaces / Mindsome AI (Revidd) — Next.js + Firebase</tspan></text>
 <text class="line l26" x="0" y="489" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">cat skills.txt</tspan></text>
