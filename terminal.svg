@@ -1,44 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460" fill="none" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
-<defs>
-<style>
-  .txt { fill:#E8E6E3; font-size:15px; }
-  .dim { fill:#8A8784; font-size:15px; }
-  .accent { fill:#D97757; font-size:15px; }
-  .green { fill:#7EC699; font-size:15px; }
-  .prompt { fill:#D97757; font-size:15px; font-weight:bold; }
-  .title { fill:#8A8784; font-size:13px; }
-  .line { opacity:0; animation: appear .3s forwards; }
-  @keyframes appear { from{opacity:0; transform:translateY(4px);} to { opacity:1; transform:translateY(0);} }
-  .cursor { fill:#D97757; animation: blink 1s step-end infinite; }
-  @keyframes blink { 50% { opacity:0; } }
-  .l1{animation-delay:.2s}.l2{animation-delay:1.6s}.l3{animation-delay:2.1s}
-  .l4{animation-delay:2.8s}.l5{animation-delay:4.0s}.l6{animation-delay:4.4s}
-  .l7{animation-delay:4.8s}.l8{animation-delay:5.2s}.l9{animation-delay:6.4s}
-  .l10{animation-delay:7.0s}.l11{animation-delay:7.4s}.l12{animation-delay:7.8s}
-  .l14{animation-delay:8.6s}
-</style>
-</defs>
-<rect x="0" y="0" width="820" height="460" rx="12" fill="#1E1E1E"/>
-<rect x="0" y="0" width="820" height="36" rx="12" fill="#2A2A28"/>
-<rect x="0" y="24" width="820" height="12" fill="#2A2A28"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="959" viewBox="0 0 900 959" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+<defs><style>
+.line{opacity:0;animation:appear .3s forwards;}
+@keyframes appear{from{opacity:0}to{opacity:1}}
+.cursorblink{animation:appear .3s forwards, blink 1s step-end infinite;}
+@keyframes blink{50%{opacity:0}}
+.l1{animation-delay:1.10s}.l2{animation-delay:1.45s}.l3{animation-delay:1.75s}.l5{animation-delay:2.65s}.l6{animation-delay:3.00s}.l7{animation-delay:3.35s}.l8{animation-delay:3.70s}.l10{animation-delay:4.60s}.l11{animation-delay:5.10s}.l12{animation-delay:5.50s}.l13{animation-delay:5.90s}.l14{animation-delay:6.30s}.l15{animation-delay:6.70s}.l16{animation-delay:7.10s}.l17{animation-delay:7.60s}.l18{animation-delay:8.00s}.l19{animation-delay:8.40s}.l21{animation-delay:9.30s}.l22{animation-delay:9.70s}.l23{animation-delay:10.10s}.l24{animation-delay:10.50s}.l26{animation-delay:11.40s}.l27{animation-delay:11.70s}.l28{animation-delay:12.00s}.l29{animation-delay:12.30s}.l30{animation-delay:12.60s}.l31{animation-delay:12.90s}.l32{animation-delay:13.20s}.l34{animation-delay:14.10s}.l35{animation-delay:14.50s}.l36{animation-delay:14.90s}.l37{animation-delay:15.30s}.l39{animation-delay:16.20s}.l40{animation-delay:16.50s}.l42{animation-delay:17.40s}.l43{animation-delay:17.70s}.l45{animation-delay:18.60s}
+.cursorblink{animation-delay:18.90s,18.90s}
+</style></defs>
+<rect x="0" y="0" width="900" height="959" rx="12" fill="#1E1E1E"/>
+<rect x="0" y="0" width="900" height="36" rx="12" fill="#2A2A28"/>
+<rect x="0" y="24" width="900" height="12" fill="#2A2A28"/>
 <circle cx="22" cy="18" r="6" fill="#ED6A5E"/>
 <circle cx="42" cy="18" r="6" fill="#F4BF4F"/>
 <circle cx="62" cy="18" r="6" fill="#61C554"/>
-<text class="title" x="410" y="22" text-anchor="middle">manoj@cloud — claude code</text>
-<g transform="translate(24,68)">
-  <text class="line l1"><tspan class="prompt">❯</tspan><tspan class="accent" dx="10">whoami</tspan></text>
-  <text class="line l2" y="28"><tspan class="txt">Manoj Kumar Gogula</tspan><tspan class="dim" dx="8">· DevOps / Cloud Operations Engineer</tspan></text>
-  <text class="line l3" y="50"><tspan class="dim">3+ yrs · AWS · Azure · Kubernetes · Terraform · LLMOps</tspan></text>
-  <text class="line l4" y="86"><tspan class="prompt">❯</tspan><tspan class="accent" dx="10">git log --impact</tspan></text>
-  <text class="line l5" y="114"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Migrated Azure → AWS in &lt;7 days, zero downtime (-35%)</tspan></text>
-  <text class="line l6" y="136"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Scaled AI inference to 700M+ tokens/min</tspan></text>
-  <text class="line l7" y="158"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Powered an IoT platform of 3M+ devices</tspan></text>
-  <text class="line l8" y="180"><tspan class="green">✔</tspan><tspan class="txt" dx="8">Secured $50K+ in cloud credits</tspan></text>
-  <text class="line l9" y="216"><tspan class="prompt">❯</tspan><tspan class="accent" dx="10">cat now.md</tspan></text>
-  <text class="line l10" y="244"><tspan class="dim">→</tspan><tspan class="txt" dx="8">Building &amp; scaling infra @ Wexa AI</tspan></text>
-  <text class="line l11" y="266"><tspan class="dim">→</tspan><tspan class="txt" dx="8">Exploring MCP orchestration &amp; GitOps</tspan></text>
-  <text class="line l12" y="288"><tspan class="dim">→</tspan><tspan class="txt" dx="8">Based in Hyderabad, India</tspan></text>
-  <text class="line l14" y="330"><tspan class="prompt">❯</tspan></text>
-  <rect class="cursor l14" x="16" y="318" width="9" height="16"/>
+<text x="450" y="22" text-anchor="middle" fill="#8A8784" font-size="13">manoj@cloud — claude code · resume.sh</text>
+<g transform="translate(24,62)">
+<text class="line l1" x="0" y="0" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">whoami</tspan></text>
+<text class="line l2" x="0" y="21" font-size="14"><tspan fill="#E8E6E3">Manoj Kumar Gogula</tspan></text>
+<text class="line l3" x="0" y="42" font-size="14"><tspan fill="#8A8784">DevOps / Cloud Operations Engineer · Hyderabad, India</tspan></text>
+<text class="line l5" x="0" y="75" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">cat summary.md</tspan></text>
+<text class="line l6" x="0" y="96" font-size="14"><tspan fill="#E8E6E3">DevOps &amp; Cloud Ops Engineer, 3+ yrs. I manage scalable</tspan></text>
+<text class="line l7" x="0" y="117" font-size="14"><tspan fill="#E8E6E3">infrastructure, automate CI/CD, and deploy AI/LLM workloads</tspan></text>
+<text class="line l8" x="0" y="138" font-size="14"><tspan fill="#E8E6E3">across AWS &amp; Azure. Kubernetes, Docker, Terraform, LLMOps.</tspan></text>
+<text class="line l10" x="0" y="171" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">git log --experience</tspan></text>
+<text class="line l11" x="0" y="192" font-size="14"><tspan fill="#D9A557" font-weight="bold">● Wexa AI — Cloud Operations Engineer (DevOps)   May 2023 - Present</tspan></text>
+<text class="line l12" x="0" y="213" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Led Azure→AWS migration: -35% cost, high availability</tspan></text>
+<text class="line l13" x="0" y="234" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Ran AKS→EKS clusters, Helm microservices, 99.9% uptime</tspan></text>
+<text class="line l14" x="0" y="255" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">GitHub Actions CI/CD: zero-downtime deploys &amp; rollbacks</tspan></text>
+<text class="line l15" x="0" y="276" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Integrated GPT-4 / GPT-4o / DALL·E via Azure OpenAI</tspan></text>
+<text class="line l16" x="0" y="297" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Secured $50K+ cloud credits; Prometheus/Grafana observability</tspan></text>
+<text class="line l17" x="0" y="318" font-size="14"><tspan fill="#D9A557" font-weight="bold">● Revidd — Software Engineer Trainee            Jun 2022 - Apr 2023</tspan></text>
+<text class="line l18" x="0" y="339" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Built VOD UIs in Next.js; REST/GraphQL integration</tspan></text>
+<text class="line l19" x="0" y="360" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Owned Spaces admin dashboard + Mindsome AI chat UI</tspan></text>
+<text class="line l21" x="0" y="393" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">ls ./projects</tspan></text>
+<text class="line l22" x="0" y="414" font-size="14"><tspan fill="#8A8784">→</tspan><tspan fill="#E8E6E3" dx="8">Wexa Platform — multi-cloud infra, LLMs @ 700M+ tokens/min</tspan></text>
+<text class="line l23" x="0" y="435" font-size="14"><tspan fill="#8A8784">→</tspan><tspan fill="#E8E6E3" dx="8">Logistics IoT (Cognochain) — K8s, Kafka+EMQX for 3M+ devices</tspan></text>
+<text class="line l24" x="0" y="456" font-size="14"><tspan fill="#8A8784">→</tspan><tspan fill="#E8E6E3" dx="8">Spaces / Mindsome AI (Revidd) — Next.js + Firebase</tspan></text>
+<text class="line l26" x="0" y="489" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">cat skills.txt</tspan></text>
+<text class="line l27" x="0" y="510" font-size="14"><tspan fill="#8A8784">Cloud......: AWS, Azure, Hetzner</tspan></text>
+<text class="line l28" x="0" y="531" font-size="14"><tspan fill="#8A8784">Orchestrate: Kubernetes(EKS,AKS,K3s), Helm, Rancher, Docker</tspan></text>
+<text class="line l29" x="0" y="552" font-size="14"><tspan fill="#8A8784">IaC/CICD...: Terraform, GitHub Actions, GitLab CI, Azure DevOps</tspan></text>
+<text class="line l30" x="0" y="573" font-size="14"><tspan fill="#8A8784">LLMOps.....: Azure OpenAI, Bedrock, Ollama, LiteLLM, Langfuse</tspan></text>
+<text class="line l31" x="0" y="594" font-size="14"><tspan fill="#8A8784">Data.......: MongoDB, Redis, Kafka, Qdrant, Postgres, EMQX</tspan></text>
+<text class="line l32" x="0" y="615" font-size="14"><tspan fill="#8A8784">Observe....: Prometheus, Grafana, Loki, CloudWatch, Azure Monitor</tspan></text>
+<text class="line l34" x="0" y="648" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">cat achievements.log</tspan></text>
+<text class="line l35" x="0" y="669" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Azure→AWS migration in &lt;7 days, zero downtime</tspan></text>
+<text class="line l36" x="0" y="690" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Scaled IoT platform to 3M+ devices (Kafka + EMQX)</tspan></text>
+<text class="line l37" x="0" y="711" font-size="14"><tspan fill="#7EC699">✔</tspan><tspan fill="#E8E6E3" dx="8">Secured $50K+ in cloud credits</tspan></text>
+<text class="line l39" x="0" y="744" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">cat education.txt</tspan></text>
+<text class="line l40" x="0" y="765" font-size="14"><tspan fill="#8A8784">B.Tech EEE — GMR Institute of Technology, Rajam (2019-2023)</tspan></text>
+<text class="line l42" x="0" y="798" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan><tspan fill="#D97757" dx="10">echo $LANG $INTERESTS</tspan></text>
+<text class="line l43" x="0" y="819" font-size="14"><tspan fill="#8A8784">English · Telugu · Hindi | Cloud-native, AI tooling, DX</tspan></text>
+<text class="line l45" x="0" y="852" font-size="14"><tspan fill="#D97757" font-weight="bold">❯</tspan></text>
+<rect class="line cursorblink" x="16" y="859" width="9" height="15" fill="#D97757"/>
 </g>
 </svg>
