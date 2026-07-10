@@ -1,8 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=230&section=header&text=%3E_%20initializing...&fontSize=40&fontColor=ffffff&animation=blinking&fontAlignY=42&desc=a%20presentation%20by%20Manoj%20Kumar%20Gogula&descSize=16&descColor=aaaaaa&descAlignY=60" alt="intro"/>
+[![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=850&height=200&lines=%F0%9F%91%8B+Hi+there!;This+is+Manoj+Kumar+Gogula.;I+work+at+Wexa+AI+%E2%80%94+as+a;DevOps+%2F+Cloud+Operations+Engineer.;I+automate+infra+%26+scale+AI+workloads.;Welcome+to+my+profile.+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Manoj+%F0%9F%91%8B;A+DevOps+%26+Cloud+Operations+Engineer;I+automate+infrastructure...;...and+scale+AI+at+production+level.)](https://git.io/typing-svg)
+<a href="https://linkedin.com/in/manoj-kumar-gogula-7092791a3"><img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black&color=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:mr.gmanojkumar@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=black&color=white" alt="Email"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Hyderabad,%20India-black?style=flat-square&logo=googlemaps&logoColor=white&color=111111" alt="Location"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=manojkumargogula&label=Views&color=000000&style=flat-square" alt="views"/>
 
 </div>
 
@@ -60,8 +63,6 @@
 <a href="mailto:mr.gmanojkumar@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black&color=white" alt="Email"/></a>
 
 [![o](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Thanks+for+watching.+%E2%9C%A8;Automating+infrastructure%2C+one+pipeline+at+a+time.)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=manojkumargogula&label=Views&color=000000&style=for-the-badge" alt="views"/>
 
 </div>
 
