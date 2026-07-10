@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="820" src="https://raw.githubusercontent.com/manojkumargogula/manojkumargogula/main/terminal.svg?v=1783686207114" alt="terminal"/>
+<img width="820" src="https://raw.githubusercontent.com/manojkumargogula/manojkumargogula/main/terminal.svg?v=1783686462264" alt="terminal"/>
 
 <a href="https://linkedin.com/in/manoj-kumar-gogula-7092791a3"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=flat-square&logo=linkedin&logoColor=D97757" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:mr.gmanojkumar@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=flat-square&logo=gmail&logoColor=D97757" alt="Email"/></a>&nbsp;
